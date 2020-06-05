@@ -15,7 +15,7 @@ $ open https://cmake.org/
 ## Tutorial
 Создание переменных среды и установка их значений
 ```sh
-$ export GITHUB_USERNAME=<имя_пользователя>
+$ export GITHUB_USERNAME=MrShip15
 ```
 Начало работы в каталоге workspace
 ```sh
